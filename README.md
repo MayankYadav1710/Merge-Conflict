@@ -7,7 +7,7 @@ AI-Powered Threat Detection & Surveillance Platform
 
 GuardianEye-AI is a cutting-edge artificial intelligence system designed to enhance safety and threat detection in real-time. Using advanced machine learning and computer vision, GuardianEye autonomously monitors environments, detects threats, alerts users instantly, and supports proactive response workflows.
 
-🚀 Key Features
+Key Features
 
 Real-Time Threat Detection: Uses AI vision models to detect predefined threat actions and behaviors instantly.
 
@@ -20,7 +20,7 @@ Automated Notifications: Integrated alerting via chat services or custom APIs.
 Easy Integration: Lightweight backend ready for web/mobile service hooks.
 (This feature set is based on typical functionality for real-time AI surveillance systems like GuardianEye-AI — see similar implementations online.)
 
-🧠 How It Works
+How It Works
 
 Video Capture & Feed Processing
 Camera or video input is processed in real time to extract frames suitable for analysis.
@@ -36,7 +36,7 @@ Once a threat is recognized, incidents are logged and alerts are pushed to the c
 
 (This workflow reflects standard real-time CV + ML processing architectures.)
 
-📦 Tech Stack
+Tech Stack
 
 Computer Vision: Deep learning (YOLO / similar object detection model).
 
