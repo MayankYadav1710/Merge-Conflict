@@ -18,7 +18,7 @@ Incident Logging: Automatically records incidents with timestamps and severity d
 Automated Notifications: Integrated alerting via chat services or custom APIs.
 
 Easy Integration: Lightweight backend ready for web/mobile service hooks.
-(This feature set is based on typical functionality for real-time AI surveillance systems like GuardianEye-AI — see similar implementations online.)
+(This feature set is based on typical functionality for real-time AI surveillance systems like GuardianEye-AI)
 
 How It Works
 
@@ -26,13 +26,13 @@ Video Capture & Feed Processing
 Camera or video input is processed in real time to extract frames suitable for analysis.
 
 AI Inference Engine
-Deep learning models analyze frames to spot dangerous actions or suspicious behavior.
+Deep learning models analyze frames to spot traffic violation especially.
 
 Detection Filtering
 Alerts are filtered and scored to reduce false positives and highlight critical events.
 
 Notifications & Logging
-Once a threat is recognized, incidents are logged and alerts are pushed to the configured channel.
+Once a rule violation is recognized, incidents are logged and alerts are pushed to the configured channel.
 
 (This workflow reflects standard real-time CV + ML processing architectures.)
 
@@ -40,10 +40,10 @@ Tech Stack
 
 Computer Vision: Deep learning (YOLO / similar object detection model).
 
-Backend: Python / FastAPI or similar for API servicing.
+Backend: Python / FastAPI .
 
-Real-Time Alerts: Webhooks, messaging APIs, push integrations.
+Real-Time Alerts: messaging APIs, push integrations.
 
 Frontend: Optional dashboard UI for monitoring, logs, and alerts.
 
-(Stack details extrapolated from common GuardianEye-AI implementations.)
+
