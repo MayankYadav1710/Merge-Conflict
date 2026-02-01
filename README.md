@@ -1,6 +1,7 @@
 # Merge-Conflict
 This is our Hackathon repository in which we have trained a ML Model which detects helmets in the pictures clicked by the cameras on the traffic lights
 
+This is our demo video - https://youtube.com/shorts/Nuo0WKeq7l4?si=0afuHQ-ndehlebUO
 GuardianEye-AI
 
 AI-Powered Threat Detection & Surveillance Platform
